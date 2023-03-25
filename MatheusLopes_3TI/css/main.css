@@ -1,0 +1,27 @@
+.preencher{
+    width: 100%;
+}
+
+.titulo{
+    font-family: 'PT Serif Caption', serif;
+}
+.marca {
+    font-size: 20pt;
+    margin: 2%;
+}
+
+.borda{
+    /*Para manutenção*/
+    border: 2px solid red;
+}
+
+a:link, a:visited, a:hover, a:active{
+    text-decoration: none;
+    color: black;
+}
+
+.tmh {
+    font-size:14pt;
+    font-family: 'Bitter', serif;
+}
+
