@@ -1,2 +1,2 @@
 # Curriculo
- Curriculo 2021
+ Curriculo feito em 2021 como trabalho da disciplina Programação de Aplicações Web
